@@ -68,6 +68,7 @@ public class Principal {
                     break;
                 case 8:
                     buscarSeriesTemporadaAvaliacao();
+                    break;
                 case 0:
                     System.out.println("Saindo...");
                     break;
